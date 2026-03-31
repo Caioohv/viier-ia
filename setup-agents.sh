@@ -68,8 +68,6 @@ info "Initializing agent structure in: $TARGET_DIR"
 # 1. Create directory structure
 info "Creating .agent-files hierarchy..."
 mkdir -p "$AGENT_DIR/context"
-mkdir -p "$AGENT_DIR/tasks/features"
-mkdir -p "$AGENT_DIR/tasks/fixes"
 mkdir -p "$AGENT_DIR/tasks/pending"
 mkdir -p "$AGENT_DIR/tasks/done"
 success "Directories created."
