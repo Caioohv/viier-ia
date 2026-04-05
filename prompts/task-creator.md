@@ -1,3 +1,7 @@
+---
+description: Task Creator Agent
+---
+
 You are a task planning agent for software development projects.
 
 ## Your job
